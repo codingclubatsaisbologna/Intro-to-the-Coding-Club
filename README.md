@@ -55,9 +55,10 @@ Some of history’s most seminal events are related to:
 
 # Resources To Get You Started
   - R and Python
-      - DataCamp 
-        – free courses
+      - DataCamp - http://www.datacamp.com/
+      – offers both paid and free courses
   - Tableau 
+      - http://www.tableau.com/
       – data visualization
       - free student license on Tableau’s website
   - Free Code Camp
