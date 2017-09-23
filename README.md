@@ -36,21 +36,21 @@ Some of history’s most seminal events are related to:
     - Big Data & Privacy
 
 # Contentious Issues with Tech
-Robots and AI are displacing workforces:
+### Robots and AI are displacing workforces:
   - A Tax on Tech? Or, should governments invest in training workforces for the skills needed in the coming century?
     - Universal Wage?
     - Trends in Populism to Persist?
 
-Open Internet?
+### Open Internet?
   - How much should access to information cost?
   - Public-Private Partnerships in internet infrastructure development
 
-Blockchain
+### Blockchain
   - Broader access to financial services in the developing world
   - Efficient self-regulation of the banking industry
   - A tool for criminals? Silk road, terrorism financing
 
-Privacy and Manipulation
+### Privacy and Manipulation
   - Cambridge Analytica, Facebook, Palantir, WikiLeaks
 
 # Resources To Get You Started
